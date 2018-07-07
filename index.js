@@ -9,9 +9,16 @@ function setCart(c) {
   return cart;
 }
 
+var item = {};
 function addToCart(item) {
- // write your code here
+ var cart =[];
+ 
 }
+/*usar o Math.floor(100) aqui, porque vai dar um valor entre um e 100
+Um objeto para os itens e uma array para o carrinho
+*/
+
+
 
 function viewCart() {
   // write your code here
